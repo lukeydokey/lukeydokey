@@ -11,7 +11,12 @@
   
 ## Career
 
-### Kyungpook National University Software bachelor (경북대학교 소프트웨어 학사)
+### Kyungpook National University Software bachelor (경북대학교 소프트웨어 학사)  
+
+<a href="https://solved.ac/profile/pudingles94">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pudingles94">
+</a>
+
 ### SSAFY 7th 2022.01 ~
 
 <br/>
