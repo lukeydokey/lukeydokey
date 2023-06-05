@@ -3,7 +3,7 @@
 </div>
 <div align=center><h1>🌱 송형근</h1></div>   
 <div align=center><h3>#책임감 #소통</h3></div>
-<div align=center><h3>#백엔드 #DevOps</h3></div>
+<div align=center><h3>#Back-End #DevOps</h3></div>
 <div align=center><h3>#여행 #음악 #게임</h3></div>
 <br>
 
@@ -21,7 +21,7 @@
 <br>
 <div align=center><h1>Career</h1></div>
 <div align=center><h3>Kyungpook National University Software bachelor (경북대학교 소프트웨어 학사)</h3></div>  
-<div align=center><h3>SSAFY 7th 2022.01 ~</h3></div>   
+<div align=center><h3>SSAFY 7th 2022.01 ~ 2022.12</h3></div>   
 <br>
 
 <div align=center><h1>📚 STACKS</h1></div>
@@ -59,8 +59,6 @@
 </a>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukeydokey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <!--
 **lukeydokey/lukeydokey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
