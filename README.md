@@ -21,7 +21,8 @@
 <br>
 <div align=center><h1>Career</h1></div>
 <div align=center><h3>Kyungpook National University Software bachelor (경북대학교 소프트웨어 학사)</h3></div>  
-<div align=center><h3>SSAFY 7th 2022.01 ~ 2022.12</h3></div>   
+<div align=center><h3>SW Engineer SSAFY 7th 2022.01 ~ 2022.12</h3></div>   
+<div align=center><h3>PS Manager Tmax Cloud 2023.08 ~ </h3></div>   
 <br>
 
 <div align=center><h1>📚 STACKS</h1></div>
