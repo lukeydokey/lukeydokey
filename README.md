@@ -1,10 +1,6 @@
 <div align=right>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flukeydokey%2Fhit-counter&count_bg=%234B92DD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
-<div align=center><h1>🌱 송형근</h1></div>   
-<div align=center><h3>#책임감 #소통</h3></div>
+<div align=center><h1>송형근</h1></div>   
 <div align=center><h3>#Back-End #DevOps</h3></div>
-<div align=center><h3>#여행 #음악 #게임 #전시회</h3></div>
 <br>
 
 <div align=center><h1>Contact</h1></div>
@@ -22,7 +18,8 @@
 <div align=center><h1>Career</h1></div>
 <div align=center><h3>Kyungpook National University Software bachelor (경북대학교 소프트웨어 학사)</h3></div>  
 <div align=center><h3>SW Engineer SSAFY 7th 2022.01 ~ 2022.12</h3></div>   
-<div align=center><h3>PS Manager Tmax Cloud 2023.08 ~ 2024.06</h3></div>   
+<div align=center><h3>PS Manager Tmax Cloud 2023.08 ~ 2024.06</h3></div>
+<div align=center><h3>BE Developer Fifth Dimension 2025.04 ~ ing</h3></div>
 <br>
 
 <div align=center><h1>📚 STACKS</h1></div>
