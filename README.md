@@ -9,17 +9,22 @@
 <a href="mailto:pudingles@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://velog.io/@lukeydokey">
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+<a href="https://lucas-song94.tistory.com">
+<img src="https://img.shields.io/badge/Tistory-EB5757?style=for-the-badge&logo=tistory&logoColor=white"/>
 </a>
+<a href="https://velog.io/@lukeydokey">
+<img src="https://img.shields.io/badge/Velog(Archived)-999999?style=for-the-badge&logo=velog&logoColor=white"/>
+</a>
+
 </div>
 
 <br>
 <div align=center><h1>Career</h1></div>
-<div align=center><h3>Kyungpook National University Software bachelor (경북대학교 소프트웨어 학사)</h3></div>  
-<div align=center><h3>SW Engineer SSAFY 7th 2022.01 ~ 2022.12</h3></div>   
-<div align=center><h3>PS Manager Tmax Cloud 2023.08 ~ 2024.06</h3></div>
+<div align=center><h3>BE Developer Pando Platform 2025.11 ~ Ing</h3></div>
 <div align=center><h3>BE Developer Fifth Dimension 2025.04 ~ 2025.07</h3></div>
+<div align=center><h3>PS Manager Tmax Cloud 2023.08 ~ 2024.06</h3></div>
+<div align=center><h3>SW Engineer SSAFY 7th 2022.01 ~ 2022.12</h3></div>   
+<div align=center><h3>Kyungpook National University Software bachelor (경북대학교 소프트웨어 학사)</h3></div>  
 <br>
 
 <div align=center><h1>📚 STACKS</h1></div>
