@@ -19,8 +19,6 @@
 ## What I Work On
 
 - **Service Development & Operations** — Reservations, device control, and revenue settlement for unattended store platforms
-- **Real-time Integration & Async Processing** — Device and payment integrations over WebSocket; job processing and recovery with Redis and BullMQ
-- **Reliability & Security** — Concurrency control, idempotency, personal data protection, and authentication
 - **Infrastructure & CI/CD** — AWS ECS deployment environments and automated validation and deployment with GitHub Actions
 
 ## Tech Stack
